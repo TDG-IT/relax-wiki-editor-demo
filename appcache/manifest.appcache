@@ -1,5 +1,5 @@
 CACHE MANIFEST
-#ver:20/10/2021, 21:52:45
+#ver:20/10/2021, 22:10:39
 #plugin:5.0.5
 
 CACHE:
@@ -11,23 +11,23 @@ CACHE:
 ./static/fonts/lato-normal-italic.f28f2d6.woff
 ./static/fonts/lato-normal.27bd77b.woff
 ./static/js/vendor.71b5e9f16c0cca0d65e1.js
-./static/js/app.8fbedd306e986b573295.js
-./static/js/manifest.da59b1d45c8d0a64c8ec.js
+./static/js/app.b3ae58f9cb56f7a11b3e.js
+./static/js/manifest.2eb0cba267538bb94826.js
 ./static/css/app.25db58cf0974f7cd4f18084d043745dc.css
 ./static/landing/abc.png
-./static/landing/discussion.png
-./static/landing/katex.gif
 ./static/landing/favicon.ico
 ./static/landing/gfm.png
 ./static/landing/mermaid.gif
-./static/landing/providers.png
 ./static/landing/logo.svg
-./static/landing/scroll-sync.gif
 ./static/landing/navigation-bar.png
+./static/landing/providers.png
+./static/landing/discussion.png
+./static/landing/katex.gif
 ./static/landing/smart-layout.png
-./static/landing/workspace.png
-./static/landing/twemoji.png
 ./static/landing/syntax-highlighting.gif
+./static/landing/scroll-sync.gif
+./static/landing/twemoji.png
+./static/landing/workspace.png
 ./static/sitemap.xml
 ./manifest.d556a821c4e7a0c6cac225a7e198ec4e.json
 ./icon_512x512.148ed2397c1083b4201b036ee345db86.png
